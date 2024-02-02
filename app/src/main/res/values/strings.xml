@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMDelivery</string>
+    <string name="commandid_1234567">CommandID 1234567</string>
+    <string name="confirmed">confirmed</string>
+    <string name="in_process">in process</string>
+    <string name="todo">TODO</string>
+    <string name="title_of_this_product_title_of_this_product">Title of this product title of this product</string>
+    <string name="client_informations">Client Informations</string>
+    <string name="fullname">Fullname</string>
+    <string name="phone_number">Phone №</string>
+    <string name="mad">MAD</string>
+    <string name="location">Location</string>
+    <string name="delivery_of_the_order">Delivery of the order</string>
+    <string name="delivery_is_done">Delivery is done</string>
+</resources>
